@@ -1,6 +1,0 @@
-@quick_sharp_HostAddress = http://localhost:5134
-
-GET {{quick_sharp_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
